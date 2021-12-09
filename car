@@ -21,4 +21,4 @@ if confirm_input:
   if 轉速>=car_simulation.get('轉速'):
       st.write('即將超過轉速')
   else:
-      print('正常')
+      st.write('正常')
