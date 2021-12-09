@@ -1,4 +1,5 @@
 import streamlit as st
+st.write('我們是勞贖!第五組')
 def BMI(w, h):
     return w/(h*h)
 w = st.number_input('請輸入體重(KG)？')
